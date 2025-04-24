@@ -14,6 +14,14 @@ Your mission:
 
 ---
 
+## 🎥 Gameplay Video
+
+[![Watch Gameplay](https://img.youtube.com/vi/E6N1qrEUkRE&t=10s.jpg)](https://youtu.be/E6N1qrEUkRE?si=lq5bdHdmALsJjtmk)
+
+Click the thumbnail to watch the official walkthrough.
+
+---
+
 ## ✨ Features
 
 - 🏞️ Open world exploration  
@@ -31,14 +39,6 @@ Your mission:
 - Solve environment-based riddles to access hidden areas.  
 - Use clues from NPCs and objects to progress.  
 - Discover the lore behind each location and orb.
-
----
-
-## 🎥 Gameplay Video
-
-[![Watch Gameplay](https://img.youtube.com/vi/E6N1qrEUkRE?si=lq5bdHdmALsJjtmk.jpg)](https://youtu.be/E6N1qrEUkRE?si=lq5bdHdmALsJjtmk)
-
-Click the thumbnail to watch the official walkthrough.
 
 ---
 
