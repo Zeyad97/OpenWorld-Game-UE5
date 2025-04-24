@@ -18,7 +18,7 @@ Your mission:
 
 [![Watch Gameplay](https://img.youtube.com/vi/E6N1qrEUkRE/0.jpg)](https://youtu.be/E6N1qrEUkRE?si=rK5FNaa6YdyygJAU)
 
-Click the thumbnail to watch the Gameplay of *OpenWorld Game*.
+Click this Image to watch the Gameplay of *OpenWorld Game*.
 
 
 ## ✨ Features
